@@ -1,9 +1,10 @@
-# React + Vite
+
+look at the working video of [NK Ott app](https://drive.google.com/file/d/1GGu5fibzo0Ed-kkXGTuRoP83ss1mBEgR/view?usp=drivesdk) 
 
 ![Screenshot 2025-05-28 222635](https://github.com/user-attachments/assets/aa892507-e533-421e-ad5c-742651d18846)
 ![Screenshot 2025-05-28 222647](https://github.com/user-attachments/assets/32936bd1-47a7-4b8b-82e1-829bc5a3823b)
 
-
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
